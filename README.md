@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @daxab07
-- 👀 I’m interested in Golang Projects
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on Cloud Native
+- 👋 Hi, I’m Manvendra Rathore
+- 👨🏻‍💻 Currently working at @Qualcomm Hyderabad as a SDE
+- 👀 I’m interested in .Net Projects
+- 🌱 I’m currently learning System Design
 - 📫 How to reach me -> manvendra.rathore1607@gmail.com
 
 <!---
