@@ -2,7 +2,7 @@
 - 👀 I’m interested in Golang Projects
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on Cloud Native
-- 📫 How to reach me -> manvendra400@gmail.com
+- 📫 How to reach me -> manvendra.rathore1607@gmail.com
 
 <!---
 daxab07/daxab07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
